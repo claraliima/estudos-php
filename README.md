@@ -1,4 +1,3 @@
-# estudos-php
 # 🐘 Estudos PHP
 
 Repositório para organizar códigos, exercícios e projetos do meu aprendizado em **PHP**.
